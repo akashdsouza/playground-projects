@@ -1,0 +1,4 @@
+.carousel-slide {
+  position: absolute;
+  transition: transform 1s ease;
+}
